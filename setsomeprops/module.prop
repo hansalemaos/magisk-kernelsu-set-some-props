@@ -1,0 +1,6 @@
+id=setsomeprops
+name=setsomeprops
+version=1.0
+versionCode=01
+author=hansalemao
+description=Create a file "/sdcard/hansgisk/system.prop", it will replace the system.prop file after 2 reboots
